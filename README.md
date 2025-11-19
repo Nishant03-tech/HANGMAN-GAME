@@ -1,2 +1,1 @@
-# HANGMAN-GAME
-A popular game called as 'HangMan Game' created using python 
+7/11 SUPERMARKET SYSTEM
